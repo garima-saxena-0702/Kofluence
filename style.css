@@ -51,4 +51,34 @@
     height: 17.49px;
 }
 
+.textSearch {
+    font-size: 12px;
+    font-family: SegoeUI-Bold, Segoe UI;
+    font-weight: 700;
+    margin-left: 8px;
+}
 
+.information {
+    padding: 10px;
+    width: 100%;
+    height: 56px;
+    display: flex;
+    box-sizing: border-box;
+    justify-content: space-between;
+}
+
+.info {
+    width: 50%;
+    align-content: center;
+}
+
+.infoHead {
+    font-size: 20px;
+    font-family: SegoeUI-Bold, Segoe UI;
+    font-weight: 700;
+}
+
+.infoSubject {
+    font-size: 10px;
+    font-family: SegoeUI, Segoe UI;
+}
