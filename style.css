@@ -1,0 +1,54 @@
+.main {
+    width: 360px;
+    height: 1216px;
+}
+
+.notification {
+    height: 14px;
+    width: 100%;
+    background-color: #9f9f9f;
+    text-align: center;
+    color: #fff;
+    font-size: 9px;
+    font-family: SegoeUI, Segoe UI;
+}
+
+.header {
+    width: 100%;
+    height: 55px;
+    background-color: #000000;
+    padding: 15px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+}
+
+.imageHeader {
+    width: 25px;
+    height: 25px;
+}
+
+.container {
+    padding: 6px 20px 0px 20px;
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+}
+
+.search {
+    background-color: rgba(172,172,172,0.47);
+    width: 100%;
+    height: 30px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: flex-start;
+    padding: 6.25px;
+    box-sizing: border-box;
+}
+
+.searchIcon {
+    width: 17.49px;
+    height: 17.49px;
+}
+
+
